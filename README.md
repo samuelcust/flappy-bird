@@ -1,2 +1,2 @@
 # flappy-bird
-The Game Flappy Bird with the JavaScript (Phaser.js)
+The Game Flappy Bird
